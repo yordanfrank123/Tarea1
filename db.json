@@ -1,0 +1,34 @@
+{
+    "producto":[
+        {
+            "Id":1,
+            "Usuario": "Jose",
+            "Clave": "123456"
+        },
+        {
+            "Id":1,
+            "Usuario": "Pedro",
+            "Clave": "123123"
+        },
+        {
+            "Id":1,
+            "Usuario": "Alex",
+            "Clave": "234234"
+        },
+        {
+            "Id":1,
+            "Usuario": "Jhon",
+            "Clave": "532321"
+        },
+        {
+            "Id":1,
+            "Usuario": "Juan",
+            "Clave": "543543"
+        },
+        {
+            "Id":1,
+            "Usuario": "Pepito",
+            "Clave": "567567"
+        }
+    ]
+}
