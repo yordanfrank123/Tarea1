@@ -1,17 +1,17 @@
-{
-    "Usuarios":[
-        {
-            "Usuario": "Jose",
-            "Contraseña": "123456"
-        },
-        {
-            "Usuario": "Pedro",
-            "Contraseña": "123123"
-        },
-        {
-            "Usuario": "Alex",
-            "Contraseña": "234234"
-        }
-       
-    ]
-}
+[
+  {
+    "Id": 1,
+    "Usuario": "Jose",
+    "Clave": "123456"
+  },
+  {
+    "Id": 2,
+    "Usuario": "Pedro",
+    "Clave": "123123"
+  },
+  {
+    "Id": 3,
+    "Usuario": "Alex",
+    "Clave": "234234"
+  }
+]
