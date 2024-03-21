@@ -1,34 +1,17 @@
 {
     "producto":[
         {
-            "Id":1,
             "Usuario": "Jose",
-            "Clave": "123456"
+            "Contraseña": "123456"
         },
         {
-            "Id":2,
             "Usuario": "Pedro",
-            "Clave": "123123"
+            "Contraseña": "123123"
         },
         {
-            "Id":3,
             "Usuario": "Alex",
-            "Clave": "234234"
+            "Contraseña": "234234"
         },
-        {
-            "Id":4,
-            "Usuario": "Jhon",
-            "Clave": "532321"
-        },
-        {
-            "Id":5,
-            "Usuario": "Juan",
-            "Clave": "543543"
-        },
-        {
-            "Id":6,
-            "Usuario": "Pepito",
-            "Clave": "567567"
-        }
+       
     ]
 }
